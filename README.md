@@ -1,2 +1,2 @@
 # Discriminant-php
-Interface calculant le discriminant avec php
+Interface calculating the discriminant with php
